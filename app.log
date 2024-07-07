@@ -1,0 +1,988 @@
+2024-05-24 09:07:12,147 [WARNING]  * Debugger is active!
+2024-05-24 09:07:12,154 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:07:27,126 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:07:27,426 [WARNING]  * Debugger is active!
+2024-05-24 09:07:27,432 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:07:32,684 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:07:32,959 [WARNING]  * Debugger is active!
+2024-05-24 09:07:32,964 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:07:38,119 [INFO] 127.0.0.1 - - [24/May/2024 09:07:38] "OPTIONS / HTTP/1.1" 200 -
+2024-05-24 09:07:38,123 [ERROR] No files part in the request
+2024-05-24 09:07:38,124 [INFO] 127.0.0.1 - - [24/May/2024 09:07:38] "POST / HTTP/1.1" 200 -
+2024-05-24 09:08:06,077 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:08:06,352 [WARNING]  * Debugger is active!
+2024-05-24 09:08:06,358 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:08:14,124 [INFO] 127.0.0.1 - - [24/May/2024 09:08:14] "OPTIONS / HTTP/1.1" 200 -
+2024-05-24 09:08:14,128 [ERROR] No files part in the request
+2024-05-24 09:08:14,128 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 09:08:14,129 [INFO] 127.0.0.1 - - [24/May/2024 09:08:14] "POST / HTTP/1.1" 200 -
+2024-05-24 09:08:22,479 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:08:22,776 [WARNING]  * Debugger is active!
+2024-05-24 09:08:22,782 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:08:25,017 [INFO] 127.0.0.1 - - [24/May/2024 09:08:25] "OPTIONS / HTTP/1.1" 200 -
+2024-05-24 09:08:25,021 [ERROR] No files part in the request
+2024-05-24 09:08:25,021 [INFO] ImmutableMultiDict([])
+2024-05-24 09:08:25,022 [INFO] 127.0.0.1 - - [24/May/2024 09:08:25] "POST / HTTP/1.1" 200 -
+2024-05-24 09:09:39,100 [ERROR] No files part in the request
+2024-05-24 09:09:39,100 [INFO] ImmutableMultiDict([])
+2024-05-24 09:09:39,101 [INFO] 127.0.0.1 - - [24/May/2024 09:09:39] "POST / HTTP/1.1" 200 -
+2024-05-24 09:09:45,149 [ERROR] No files part in the request
+2024-05-24 09:09:45,149 [INFO] ImmutableMultiDict([])
+2024-05-24 09:09:45,150 [INFO] 127.0.0.1 - - [24/May/2024 09:09:45] "POST / HTTP/1.1" 200 -
+2024-05-24 09:29:09,031 [ERROR] No files part in the request
+2024-05-24 09:29:09,032 [INFO] ImmutableMultiDict([])
+2024-05-24 09:29:09,032 [INFO] 127.0.0.1 - - [24/May/2024 09:29:09] "POST / HTTP/1.1" 200 -
+2024-05-24 09:29:14,767 [ERROR] No files part in the request
+2024-05-24 09:29:14,767 [INFO] ImmutableMultiDict([])
+2024-05-24 09:29:14,768 [INFO] 127.0.0.1 - - [24/May/2024 09:29:14] "POST / HTTP/1.1" 200 -
+2024-05-24 09:30:41,019 [ERROR] No files part in the request
+2024-05-24 09:30:41,020 [INFO] ImmutableMultiDict([])
+2024-05-24 09:30:41,020 [INFO] 127.0.0.1 - - [24/May/2024 09:30:41] "POST / HTTP/1.1" 200 -
+2024-05-24 09:35:25,006 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:35:25,307 [WARNING]  * Debugger is active!
+2024-05-24 09:35:25,313 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:35:35,596 [ERROR] No files part in the request
+2024-05-24 09:35:35,597 [INFO] ImmutableMultiDict([])
+2024-05-24 09:35:35,598 [INFO] 127.0.0.1 - - [24/May/2024 09:35:35] "POST / HTTP/1.1" 200 -
+2024-05-24 09:35:45,087 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:35:45,371 [WARNING]  * Debugger is active!
+2024-05-24 09:35:45,377 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:35:47,618 [ERROR] No files part in the request
+2024-05-24 09:35:47,618 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 09:35:47,619 [INFO] 127.0.0.1 - - [24/May/2024 09:35:47] "POST / HTTP/1.1" 200 -
+2024-05-24 09:36:45,621 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:36:45,951 [WARNING]  * Debugger is active!
+2024-05-24 09:36:45,961 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:56:11,088 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:56:11,381 [WARNING]  * Debugger is active!
+2024-05-24 09:56:11,386 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:56:14,480 [INFO] ImmutableMultiDict([])
+2024-05-24 09:56:14,480 [INFO] something
+2024-05-24 09:56:14,498 [INFO] 127.0.0.1 - - [24/May/2024 09:56:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 09:56:27,561 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:56:27,853 [WARNING]  * Debugger is active!
+2024-05-24 09:56:27,859 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 09:56:32,670 [INFO] something
+2024-05-24 09:56:32,687 [INFO] 127.0.0.1 - - [24/May/2024 09:56:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 09:57:40,695 [ERROR] No files part in the request
+2024-05-24 09:57:40,711 [INFO] 127.0.0.1 - - [24/May/2024 09:57:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 09:58:01,913 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 09:58:30,112 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 09:58:30,113 [ERROR] No files part in the request
+2024-05-24 09:58:30,113 [INFO] ImmutableMultiDict([])
+2024-05-24 09:58:30,114 [INFO] 127.0.0.1 - - [24/May/2024 09:58:30] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 09:59:26,684 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 09:59:26,684 [ERROR] No files part in the request
+2024-05-24 09:59:26,685 [INFO] ImmutableMultiDict([])
+2024-05-24 09:59:26,685 [INFO] 127.0.0.1 - - [24/May/2024 09:59:26] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 09:59:32,353 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 09:59:32,354 [ERROR] No files part in the request
+2024-05-24 09:59:32,354 [INFO] ImmutableMultiDict([])
+2024-05-24 09:59:32,354 [INFO] 127.0.0.1 - - [24/May/2024 09:59:32] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 10:06:18,564 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 10:06:18,565 [ERROR] No files part in the request
+2024-05-24 10:06:18,565 [INFO] ImmutableMultiDict([])
+2024-05-24 10:06:18,565 [INFO] 127.0.0.1 - - [24/May/2024 10:06:18] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 10:06:42,220 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 10:06:42,220 [ERROR] No files part in the request
+2024-05-24 10:06:42,220 [INFO] ImmutableMultiDict([])
+2024-05-24 10:06:42,221 [INFO] 127.0.0.1 - - [24/May/2024 10:06:42] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 10:06:52,771 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 10:06:52,772 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-24 10:07:08,763 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 10:07:08,763 [ERROR] No files part in the request
+2024-05-24 10:07:08,763 [INFO] ImmutableMultiDict([])
+2024-05-24 10:07:08,764 [INFO] 127.0.0.1 - - [24/May/2024 10:07:08] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 10:07:18,503 [INFO] Request files: ImmutableMultiDict([])
+2024-05-24 10:07:18,504 [ERROR] No files part in the request
+2024-05-24 10:07:18,504 [INFO] ImmutableMultiDict([])
+2024-05-24 10:07:18,504 [INFO] 127.0.0.1 - - [24/May/2024 10:07:18] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-05-24 10:07:41,631 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 10:07:41,631 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-24 10:07:48,495 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 10:07:48,496 [ERROR] Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'root' did not return a valid response. The function either returned None or ended without a return statement.
+2024-05-24 10:07:48,501 [INFO] 127.0.0.1 - - [24/May/2024 10:07:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:08:38,957 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 10:08:38,958 [ERROR] Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'root' did not return a valid response. The function either returned None or ended without a return statement.
+2024-05-24 10:08:38,958 [INFO] 127.0.0.1 - - [24/May/2024 10:08:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:09:42,491 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 10:09:42,492 [ERROR] Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'root' did not return a valid response. The function either returned None or ended without a return statement.
+2024-05-24 10:09:42,493 [INFO] 127.0.0.1 - - [24/May/2024 10:09:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:09:58,540 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 10:09:58,540 [ERROR] Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'root' did not return a valid response. The function either returned None or ended without a return statement.
+2024-05-24 10:09:58,542 [INFO] 127.0.0.1 - - [24/May/2024 10:09:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:11:04,473 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 10:11:04,473 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-24 10:11:04,475 [INFO]  * Restarting with stat
+2024-05-24 10:11:04,709 [WARNING]  * Debugger is active!
+2024-05-24 10:11:04,714 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:11:08,824 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 10:11:08,824 [ERROR] Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'root' did not return a valid response. The function either returned None or ended without a return statement.
+2024-05-24 10:11:08,827 [INFO] 127.0.0.1 - - [24/May/2024 10:11:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:11:18,746 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 10:11:18,746 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-24 10:11:18,748 [INFO]  * Restarting with stat
+2024-05-24 10:11:18,986 [WARNING]  * Debugger is active!
+2024-05-24 10:11:18,991 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:11:23,668 [INFO] 127.0.0.1 - - [24/May/2024 10:11:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:12:09,032 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:12:09,059 [INFO]  * Restarting with stat
+2024-05-24 10:12:09,306 [WARNING]  * Debugger is active!
+2024-05-24 10:12:09,311 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:12:10,935 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:12:10,965 [INFO]  * Restarting with stat
+2024-05-24 10:12:11,213 [WARNING]  * Debugger is active!
+2024-05-24 10:12:11,217 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:12:19,166 [INFO] 127.0.0.1 - - [24/May/2024 10:12:19] "POST / HTTP/1.1" 200 -
+2024-05-24 10:12:33,523 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:12:33,552 [INFO]  * Restarting with stat
+2024-05-24 10:12:33,804 [WARNING]  * Debugger is active!
+2024-05-24 10:12:33,810 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:12:38,463 [INFO] <Request 'http://127.0.0.1:5000/' [POST]>
+2024-05-24 10:12:38,464 [INFO] 127.0.0.1 - - [24/May/2024 10:12:38] "POST / HTTP/1.1" 200 -
+2024-05-24 10:12:47,567 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:12:47,591 [INFO]  * Restarting with stat
+2024-05-24 10:12:47,857 [WARNING]  * Debugger is active!
+2024-05-24 10:12:47,863 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:12:49,706 [INFO] ImmutableMultiDict([])
+2024-05-24 10:12:49,706 [INFO] 127.0.0.1 - - [24/May/2024 10:12:49] "POST / HTTP/1.1" 200 -
+2024-05-24 10:12:57,906 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:12:57,951 [INFO]  * Restarting with stat
+2024-05-24 10:12:58,207 [WARNING]  * Debugger is active!
+2024-05-24 10:12:58,212 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:13:00,008 [INFO] 127.0.0.1 - - [24/May/2024 10:13:00] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:13:46,234 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:13:46,264 [INFO]  * Restarting with stat
+2024-05-24 10:13:46,515 [WARNING]  * Debugger is active!
+2024-05-24 10:13:46,520 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:13:56,564 [INFO] ImmutableMultiDict([])
+2024-05-24 10:13:56,565 [INFO] 127.0.0.1 - - [24/May/2024 10:13:56] "POST / HTTP/1.1" 200 -
+2024-05-24 10:14:38,782 [INFO] ImmutableMultiDict([])
+2024-05-24 10:14:38,783 [INFO] 127.0.0.1 - - [24/May/2024 10:14:38] "POST / HTTP/1.1" 200 -
+2024-05-24 10:14:56,114 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:14:56,147 [INFO]  * Restarting with stat
+2024-05-24 10:14:56,414 [WARNING]  * Debugger is active!
+2024-05-24 10:14:56,420 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:14:57,682 [INFO] 127.0.0.1 - - [24/May/2024 10:14:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:15:02,917 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:15:02,944 [INFO]  * Restarting with stat
+2024-05-24 10:15:03,201 [WARNING]  * Debugger is active!
+2024-05-24 10:15:03,207 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:15:03,901 [INFO] 127.0.0.1 - - [24/May/2024 10:15:03] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 10:16:57,959 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:16:57,988 [INFO]  * Restarting with stat
+2024-05-24 10:16:58,250 [WARNING]  * Debugger is active!
+2024-05-24 10:16:58,256 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:16:59,187 [INFO] ImmutableMultiDict([])
+2024-05-24 10:16:59,187 [INFO] 127.0.0.1 - - [24/May/2024 10:16:59] "POST / HTTP/1.1" 200 -
+2024-05-24 10:17:42,229 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:17:42,261 [INFO]  * Restarting with stat
+2024-05-24 10:17:42,523 [WARNING]  * Debugger is active!
+2024-05-24 10:17:42,528 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:17:52,083 [INFO] b''
+2024-05-24 10:17:52,085 [INFO] 127.0.0.1 - - [24/May/2024 10:17:52] "POST / HTTP/1.1" 200 -
+2024-05-24 10:18:42,344 [INFO] b''
+2024-05-24 10:18:42,345 [INFO] 127.0.0.1 - - [24/May/2024 10:18:42] "POST / HTTP/1.1" 200 -
+2024-05-24 10:19:55,839 [INFO] b''
+2024-05-24 10:19:55,839 [INFO] 127.0.0.1 - - [24/May/2024 10:19:55] "POST / HTTP/1.1" 200 -
+2024-05-24 10:20:14,378 [INFO] b''
+2024-05-24 10:20:14,379 [INFO] 127.0.0.1 - - [24/May/2024 10:20:14] "POST / HTTP/1.1" 200 -
+2024-05-24 10:22:01,997 [INFO] b''
+2024-05-24 10:22:01,998 [INFO] 127.0.0.1 - - [24/May/2024 10:22:01] "POST / HTTP/1.1" 200 -
+2024-05-24 10:32:41,615 [INFO] b''
+2024-05-24 10:32:41,616 [INFO] 127.0.0.1 - - [24/May/2024 10:32:41] "POST / HTTP/1.1" 200 -
+2024-05-24 10:36:08,482 [INFO] b''
+2024-05-24 10:36:08,483 [INFO] 127.0.0.1 - - [24/May/2024 10:36:08] "POST / HTTP/1.1" 200 -
+2024-05-24 10:36:15,681 [INFO] b''
+2024-05-24 10:36:15,682 [INFO] 127.0.0.1 - - [24/May/2024 10:36:15] "POST / HTTP/1.1" 200 -
+2024-05-24 10:38:14,252 [INFO] b''
+2024-05-24 10:38:14,254 [INFO] 127.0.0.1 - - [24/May/2024 10:38:14] "POST / HTTP/1.1" 200 -
+2024-05-24 10:38:33,903 [INFO] b''
+2024-05-24 10:38:33,905 [INFO] 127.0.0.1 - - [24/May/2024 10:38:33] "POST / HTTP/1.1" 200 -
+2024-05-24 10:40:03,925 [INFO] b''
+2024-05-24 10:40:03,926 [INFO] 127.0.0.1 - - [24/May/2024 10:40:03] "POST / HTTP/1.1" 200 -
+2024-05-24 10:41:42,125 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:41:42,154 [INFO]  * Restarting with stat
+2024-05-24 10:41:42,407 [WARNING]  * Debugger is active!
+2024-05-24 10:41:42,413 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:41:48,477 [INFO] <FileStorage: 'Protocolo de laboratorio de computo.pdf' ('application/pdf')>
+2024-05-24 10:41:48,480 [INFO] 127.0.0.1 - - [24/May/2024 10:41:48] "POST / HTTP/1.1" 200 -
+2024-05-24 10:42:34,861 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:42:34,891 [INFO]  * Restarting with stat
+2024-05-24 10:42:35,144 [WARNING]  * Debugger is active!
+2024-05-24 10:42:35,149 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:44:01,663 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 10:44:01,691 [INFO]  * Restarting with stat
+2024-05-24 10:44:01,962 [WARNING]  * Debugger is active!
+2024-05-24 10:44:01,967 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 10:44:42,995 [INFO] <FileStorage: 'GUIA POSTULACION VITUAL - UNI.pdf' ('application/pdf')>
+2024-05-24 10:44:42,995 [INFO] GUIA POSTULACION VITUAL - UNI.pdf
+2024-05-24 10:44:42,996 [INFO] INFORME DEL PROYECTO.pdf
+2024-05-24 10:44:42,996 [INFO] Protocolo de laboratorio de computo.pdf
+2024-05-24 10:44:42,998 [INFO] 127.0.0.1 - - [24/May/2024 10:44:42] "POST / HTTP/1.1" 200 -
+2024-05-24 11:45:55,978 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:45:56,010 [INFO]  * Restarting with stat
+2024-05-24 11:45:56,311 [WARNING]  * Debugger is active!
+2024-05-24 11:45:56,316 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:48:47,523 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:48:47,548 [INFO]  * Restarting with stat
+2024-05-24 11:48:47,793 [WARNING]  * Debugger is active!
+2024-05-24 11:48:47,798 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:51:22,437 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:51:22,466 [INFO]  * Restarting with stat
+2024-05-24 11:51:22,719 [WARNING]  * Debugger is active!
+2024-05-24 11:51:22,725 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:51:35,239 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:51:35,266 [INFO]  * Restarting with stat
+2024-05-24 11:51:35,508 [WARNING]  * Debugger is active!
+2024-05-24 11:51:35,514 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:51:58,307 [INFO] 127.0.0.1 - - [24/May/2024 11:51:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 11:52:35,473 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:52:35,503 [INFO]  * Restarting with stat
+2024-05-24 11:52:35,846 [WARNING]  * Debugger is active!
+2024-05-24 11:52:35,851 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:52:43,291 [INFO] 127.0.0.1 - - [24/May/2024 11:52:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 11:53:00,495 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-24 11:53:00,496 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-24 11:53:00,498 [INFO]  * Restarting with stat
+2024-05-24 11:53:00,785 [WARNING]  * Debugger is active!
+2024-05-24 11:53:00,790 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:53:08,773 [INFO] 127.0.0.1 - - [24/May/2024 11:53:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 11:54:07,843 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:54:07,896 [INFO]  * Restarting with stat
+2024-05-24 11:54:08,197 [WARNING]  * Debugger is active!
+2024-05-24 11:54:08,203 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 11:54:19,899 [INFO] [<FileStorage: 'CV Wilson Saul english.pdf' ('application/pdf')>, <FileStorage: 'CV ESPAÑOL.pdf' ('application/pdf')>]
+2024-05-24 11:54:19,924 [INFO] 127.0.0.1 - - [24/May/2024 11:54:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-24 11:54:52,194 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 11:54:52,243 [INFO]  * Restarting with stat
+2024-05-24 11:54:52,551 [WARNING]  * Debugger is active!
+2024-05-24 11:54:52,556 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 12:05:01,720 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 12:05:01,775 [INFO]  * Restarting with stat
+2024-05-24 12:05:02,081 [WARNING]  * Debugger is active!
+2024-05-24 12:05:02,086 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 12:05:04,933 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 12:05:04,989 [INFO]  * Restarting with stat
+2024-05-24 12:05:05,293 [WARNING]  * Debugger is active!
+2024-05-24 12:05:05,298 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 12:05:08,093 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 12:05:08,140 [INFO]  * Restarting with stat
+2024-05-24 12:05:08,443 [WARNING]  * Debugger is active!
+2024-05-24 12:05:08,448 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 12:05:23,535 [INFO] [<FileStorage: 'CV Wilson Saul english.pdf' ('application/pdf')>, <FileStorage: 'CV ESPAÑOL.pdf' ('application/pdf')>]
+2024-05-24 12:05:23,560 [INFO] 127.0.0.1 - - [24/May/2024 12:05:23] "POST / HTTP/1.1" 200 -
+2024-05-24 12:17:20,745 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-24 12:17:20,801 [INFO]  * Restarting with stat
+2024-05-24 12:17:21,109 [WARNING]  * Debugger is active!
+2024-05-24 12:17:21,115 [INFO]  * Debugger PIN: 891-626-373
+2024-05-24 12:17:28,411 [INFO] [<FileStorage: 'CV ESPAÑOL.pdf' ('application/pdf')>]
+2024-05-24 12:17:28,430 [INFO] Wilson Saul Cornejo Ludeña Lima Perú cornejo758 gmail com 51 945251228 https my portfolio saulludena vercel app Educación Universidad privada del norte Lima Perú Actualmente cursando 2021 2024 Ingeniería de sistemas computacionales CIBERTEC Lima Perú Graduado técnico 2017 2020 Computación e informática Experiencia laboral Nuevamnt SAC Lima Perú Freelance Developer Enero 2024 Marzo 2024 Cumplí el rol de programador frontend con experiencia en el desarrollo de una landing page utilizando tecnologías como como React para el desarrollo frontend paquetes Npm para componentes visuales personalizados en el entorno Desarrollé página web usando React como biblioteca principal para el frontend creando interfaces de usuario interactivas y responsivas Utilicé Figma para diseñar maquetas que fueron desarrolladas con React y Tailwind en el desarrollo Nuevamnt SAC Lima Perú FullStack Developer Noviembre 2022 Julio 2023 Cumplí el rol de programador fullstack con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como NextJs para el desarrollo frontend ExpressJs como framework backend MySql como base de datos TailwindCss para la estilización del entorno y PrismaORM para agilizar consultas a bases de datos Desarrollé aplicaciones web usando NextJs como framework React para el frontend creando interfaces de usuario interactivas y responsivas Utilicé ExpressJs como framework NodeJs para desarrollo backend implementando API endpoints validación de Tokens para gestión de datos y funcionalidades Diseñé y administré bases de datos usando MySql asegurando una estructura eficiente y un rendimiento óptimo de las consultas React Developer Agosto 2022 Octubre 2022 Desempeñé el rol de desarrollador de React en el desarrollo y sistema web de facturación en colaboración con varios equipos incluyendo backend base de datos y documentación He trabajado bajo la metodología ágil Scrum Participé activamente en el desarrollo de un sistema de facturación electrónica utilizando React como tecnología central Colaboré estrechamente con los equipos de backend y bases de datos para garantizar integraciones fluidas y un rendimiento óptimo del sistema Seguí una metodología Scrum para el desarrollo de proyectos cumpliendo con los plazos establecidos y entregando incrementos funcionales de manera regular Contribuí a la definición de requisitos diseño de soluciones y toma de decisiones técnicas Realicé la integración de librerías y plugins externos para asegurar la reutilización de los componentes Wilson Saul Cornejo Ludeña Skills Inglés Alto nivel de comprensión en el idioma a nivel conversacional escrita y escuchada Habilidades blandas autodidacta empatía y comunicación asertiva Java Tengo experiencia desarrollando aplicaciones en diferentes plataformas como Desktop web y móvil comúnmente usando SpringBoot en plataformas web Javascript Tengo experiencia laboral desarrollando componentes en el lado frontend usando librerías y frameworks como ReactJs React Native y NextJs además de construir servidores backend usando NodeJs con framework ExpressJs para procesamiento y solicitudes del cliente hacia el backend MySql SQLServer y Oracle Desarrollé scripts de bases de datos usando mysql como fuente de almacenamiento y recuperación de datos además de usarlos en conexiones usando NodeJs Java y Php junto con ORM S como EntityFramework y PrismORM 
+2024-05-24 12:17:28,435 [INFO] 127.0.0.1 - - [24/May/2024 12:17:28] "POST / HTTP/1.1" 200 -
+2024-05-24 12:19:07,897 [INFO] [<FileStorage: '3.pdf' ('application/pdf')>]
+2024-05-24 12:19:07,974 [INFO] 127.0.0.1 - - [24/May/2024 12:19:07] "POST / HTTP/1.1" 200 -
+2024-05-24 12:28:26,436 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-24 12:28:26,706 [INFO] 127.0.0.1 - - [24/May/2024 12:28:26] "POST / HTTP/1.1" 200 -
+2024-05-24 12:28:48,904 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-24 12:28:49,187 [INFO] 127.0.0.1 - - [24/May/2024 12:28:49] "POST / HTTP/1.1" 200 -
+2024-05-24 13:05:41,903 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-24 13:05:42,210 [INFO] 127.0.0.1 - - [24/May/2024 13:05:42] "POST / HTTP/1.1" 200 -
+2024-05-25 08:41:06,715 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-25 08:41:06,716 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-25 08:41:06,717 [INFO]  * Restarting with stat
+2024-05-25 08:41:07,024 [WARNING]  * Debugger is active!
+2024-05-25 08:41:07,031 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 08:50:28,178 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 08:50:28,243 [INFO]  * Restarting with stat
+2024-05-25 08:50:28,589 [WARNING]  * Debugger is active!
+2024-05-25 08:50:28,595 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 08:55:01,624 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 08:55:01,671 [INFO]  * Restarting with stat
+2024-05-25 08:55:01,971 [WARNING]  * Debugger is active!
+2024-05-25 08:55:01,977 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 09:02:16,064 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 09:02:16,114 [INFO]  * Restarting with stat
+2024-05-25 09:02:16,425 [WARNING]  * Debugger is active!
+2024-05-25 09:02:16,431 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 09:02:34,059 [INFO] [<FileStorage: '2.pdf' ('application/pdf')>]
+2024-05-25 09:02:34,204 [INFO] 127.0.0.1 - - [25/May/2024 09:02:34] "POST / HTTP/1.1" 200 -
+2024-05-25 09:02:43,505 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 09:02:43,553 [INFO]  * Restarting with stat
+2024-05-25 09:02:43,867 [WARNING]  * Debugger is active!
+2024-05-25 09:02:43,873 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 09:02:48,933 [INFO] [<FileStorage: '2.pdf' ('application/pdf')>]
+2024-05-25 09:02:49,006 [INFO] 127.0.0.1 - - [25/May/2024 09:02:49] "POST / HTTP/1.1" 200 -
+2024-05-25 09:03:07,322 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 09:03:07,367 [INFO]  * Restarting with stat
+2024-05-25 09:03:07,673 [WARNING]  * Debugger is active!
+2024-05-25 09:03:07,679 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 09:03:09,699 [INFO] [<FileStorage: '2.pdf' ('application/pdf')>]
+2024-05-25 09:03:09,770 [INFO] <function clean_text at 0x000001C3D7E91240>
+2024-05-25 09:03:09,773 [INFO] 127.0.0.1 - - [25/May/2024 09:03:09] "POST / HTTP/1.1" 200 -
+2024-05-25 09:03:16,145 [INFO] [<FileStorage: '8.pdf' ('application/pdf')>]
+2024-05-25 09:03:16,213 [INFO] <function clean_text at 0x000001C3D7E91240>
+2024-05-25 09:03:16,216 [INFO] 127.0.0.1 - - [25/May/2024 09:03:16] "POST / HTTP/1.1" 200 -
+2024-05-25 09:03:31,104 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 09:03:31,156 [INFO]  * Restarting with stat
+2024-05-25 09:03:31,460 [WARNING]  * Debugger is active!
+2024-05-25 09:03:31,465 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 09:03:41,175 [INFO] [<FileStorage: '12.pdf' ('application/pdf')>]
+2024-05-25 09:03:41,402 [INFO] 127.0.0.1 - - [25/May/2024 09:03:41] "POST / HTTP/1.1" 200 -
+2024-05-25 11:10:15,846 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 11:10:15,930 [INFO]  * Restarting with stat
+2024-05-25 11:12:49,035 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-25 11:12:49,035 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-25 11:12:49,037 [INFO]  * Restarting with stat
+2024-05-25 11:12:50,194 [WARNING]  * Debugger is active!
+2024-05-25 11:12:50,200 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 11:12:58,432 [INFO] [<FileStorage: '6.pdf' ('application/pdf')>]
+2024-05-25 11:12:58,502 [INFO] 127.0.0.1 - - [25/May/2024 11:12:58] "POST / HTTP/1.1" 200 -
+2024-05-25 11:13:44,893 [INFO] [<FileStorage: '12.pdf' ('application/pdf')>]
+2024-05-25 11:13:45,125 [INFO] 127.0.0.1 - - [25/May/2024 11:13:45] "POST / HTTP/1.1" 200 -
+2024-05-25 11:15:18,007 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 11:15:18,158 [INFO]  * Restarting with stat
+2024-05-25 11:15:19,341 [WARNING]  * Debugger is active!
+2024-05-25 11:15:19,346 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 11:15:23,904 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 11:15:24,109 [INFO]  * Restarting with stat
+2024-05-25 11:15:25,360 [WARNING]  * Debugger is active!
+2024-05-25 11:15:25,365 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 11:15:28,761 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 11:15:28,907 [INFO]  * Restarting with stat
+2024-05-25 11:15:30,038 [WARNING]  * Debugger is active!
+2024-05-25 11:15:30,043 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 11:15:45,180 [INFO] [<FileStorage: '6.pdf' ('application/pdf')>]
+2024-05-25 11:15:45,224 [INFO] 127.0.0.1 - - [25/May/2024 11:15:45] "POST / HTTP/1.1" 200 -
+2024-05-25 11:24:03,225 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 11:24:03,401 [INFO]  * Restarting with stat
+2024-05-25 11:24:04,566 [WARNING]  * Debugger is active!
+2024-05-25 11:24:04,571 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 11:24:09,930 [INFO] [<FileStorage: '2.pdf' ('application/pdf')>]
+2024-05-25 11:24:10,008 [INFO] 127.0.0.1 - - [25/May/2024 11:24:10] "POST / HTTP/1.1" 200 -
+2024-05-25 11:27:20,520 [INFO] [<FileStorage: '12.pdf' ('application/pdf')>]
+2024-05-25 11:27:20,634 [INFO] 127.0.0.1 - - [25/May/2024 11:27:20] "POST / HTTP/1.1" 200 -
+2024-05-25 12:21:43,063 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 12:21:43,247 [INFO]  * Restarting with stat
+2024-05-25 12:22:16,093 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-25 12:22:16,094 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-25 12:22:16,096 [INFO]  * Restarting with stat
+2024-05-25 12:22:17,239 [WARNING]  * Debugger is active!
+2024-05-25 12:22:17,244 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 12:22:36,491 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-25 12:22:36,643 [INFO] 127.0.0.1 - - [25/May/2024 12:22:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 12:32:35,092 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-25 12:32:35,093 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-25 12:32:35,095 [INFO]  * Restarting with stat
+2024-05-25 12:32:36,322 [WARNING]  * Debugger is active!
+2024-05-25 12:32:36,328 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 12:32:40,659 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-25 12:32:40,787 [INFO] 127.0.0.1 - - [25/May/2024 12:32:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 12:33:07,117 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-25 12:33:07,118 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-25 12:33:07,119 [INFO]  * Restarting with stat
+2024-05-25 12:33:08,318 [WARNING]  * Debugger is active!
+2024-05-25 12:33:08,323 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 12:33:17,023 [INFO] [<FileStorage: '9.pdf' ('application/pdf')>]
+2024-05-25 12:33:17,104 [INFO] 127.0.0.1 - - [25/May/2024 12:33:17] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 13:45:44,244 [INFO] [<FileStorage: '9.pdf' ('application/pdf')>]
+2024-05-25 13:45:44,331 [INFO] 127.0.0.1 - - [25/May/2024 13:45:44] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 14:23:29,513 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 14:23:29,709 [INFO]  * Restarting with stat
+2024-05-25 14:23:32,421 [WARNING]  * Debugger is active!
+2024-05-25 14:23:32,427 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 14:23:34,395 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 14:23:34,551 [INFO]  * Restarting with stat
+2024-05-25 14:23:35,767 [WARNING]  * Debugger is active!
+2024-05-25 14:23:35,772 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 14:23:43,097 [INFO] [<FileStorage: '11.pdf' ('application/pdf')>]
+2024-05-25 14:23:43,787 [INFO] 127.0.0.1 - - [25/May/2024 14:23:43] "POST / HTTP/1.1" 200 -
+2024-05-25 14:24:53,174 [INFO] [<FileStorage: 'clean code.pdf' ('application/pdf')>]
+2024-05-25 14:24:53,281 [INFO] 127.0.0.1 - - [25/May/2024 14:24:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 14:25:05,738 [INFO] [<FileStorage: '1.pdf' ('application/pdf')>]
+2024-05-25 14:25:06,514 [INFO] 127.0.0.1 - - [25/May/2024 14:25:06] "POST / HTTP/1.1" 200 -
+2024-05-25 14:26:15,393 [INFO] [<FileStorage: '3.pdf' ('application/pdf')>]
+2024-05-25 14:26:15,585 [INFO] 127.0.0.1 - - [25/May/2024 14:26:15] "POST / HTTP/1.1" 200 -
+2024-05-25 14:28:56,987 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 14:28:57,170 [INFO]  * Restarting with stat
+2024-05-25 14:28:58,593 [WARNING]  * Debugger is active!
+2024-05-25 14:28:58,599 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 14:29:05,536 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-25 14:29:09,476 [INFO] 127.0.0.1 - - [25/May/2024 14:29:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 14:29:39,084 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 14:29:39,254 [INFO]  * Restarting with stat
+2024-05-25 14:29:40,551 [WARNING]  * Debugger is active!
+2024-05-25 14:29:40,556 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 14:29:51,566 [INFO] [<FileStorage: '8.pdf' ('application/pdf')>]
+2024-05-25 14:29:52,554 [INFO] 127.0.0.1 - - [25/May/2024 14:29:52] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 14:36:49,372 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 14:36:49,566 [INFO]  * Restarting with stat
+2024-05-25 14:36:50,982 [WARNING]  * Debugger is active!
+2024-05-25 14:36:50,988 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 14:36:53,085 [INFO] [<FileStorage: '8.pdf' ('application/pdf')>]
+2024-05-25 14:36:53,955 [INFO] 127.0.0.1 - - [25/May/2024 14:36:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 14:38:58,928 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 14:38:59,101 [INFO]  * Restarting with stat
+2024-05-25 14:39:00,391 [WARNING]  * Debugger is active!
+2024-05-25 14:39:00,396 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 14:39:14,681 [INFO] [<FileStorage: '7.pdf' ('application/pdf')>]
+2024-05-25 14:39:16,135 [INFO] 127.0.0.1 - - [25/May/2024 14:39:16] "POST / HTTP/1.1" 200 -
+2024-05-25 14:41:26,373 [INFO] [<FileStorage: '12.pdf' ('application/pdf')>]
+2024-05-25 14:41:29,145 [INFO] 127.0.0.1 - - [25/May/2024 14:41:29] "POST / HTTP/1.1" 200 -
+2024-05-25 15:11:52,518 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 15:11:52,706 [INFO]  * Restarting with stat
+2024-05-25 15:11:54,142 [WARNING]  * Debugger is active!
+2024-05-25 15:11:54,148 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 15:12:25,061 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-25 15:12:25,201 [INFO] 127.0.0.1 - - [25/May/2024 15:12:25] "POST / HTTP/1.1" 200 -
+2024-05-25 15:13:27,926 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 15:13:28,112 [INFO]  * Restarting with stat
+2024-05-25 15:13:29,349 [WARNING]  * Debugger is active!
+2024-05-25 15:13:29,354 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 15:14:21,025 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 15:14:21,200 [INFO]  * Restarting with stat
+2024-05-25 15:14:22,455 [WARNING]  * Debugger is active!
+2024-05-25 15:14:22,460 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 15:14:31,764 [INFO] [<FileStorage: '6.pdf' ('application/pdf')>]
+2024-05-25 15:14:31,907 [INFO] 127.0.0.1 - - [25/May/2024 15:14:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 15:25:06,420 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 15:25:06,588 [INFO]  * Restarting with stat
+2024-05-25 15:25:07,978 [WARNING]  * Debugger is active!
+2024-05-25 15:25:07,983 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 15:25:13,592 [INFO] [<FileStorage: '7.pdf' ('application/pdf')>]
+2024-05-25 15:25:13,722 [INFO] 127.0.0.1 - - [25/May/2024 15:25:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 15:32:28,149 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 15:32:28,322 [INFO]  * Restarting with stat
+2024-05-25 15:32:29,556 [WARNING]  * Debugger is active!
+2024-05-25 15:32:29,561 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 15:33:12,125 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 15:33:12,281 [INFO]  * Restarting with stat
+2024-05-25 15:33:13,533 [WARNING]  * Debugger is active!
+2024-05-25 15:33:13,540 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 15:33:30,474 [INFO] [<FileStorage: '5.pdf' ('application/pdf')>]
+2024-05-25 15:33:30,496 [INFO] 127.0.0.1 - - [25/May/2024 15:33:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 15:55:01,248 [INFO] [<FileStorage: '11.pdf' ('application/pdf')>]
+2024-05-25 15:55:01,270 [INFO] 127.0.0.1 - - [25/May/2024 15:55:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 22:06:17,354 [INFO] [<FileStorage: '6.pdf' ('application/pdf')>]
+2024-05-25 22:06:17,378 [INFO] 127.0.0.1 - - [25/May/2024 22:06:17] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 23:01:26,403 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:01:26,673 [INFO]  * Restarting with stat
+2024-05-25 23:01:29,717 [WARNING]  * Debugger is active!
+2024-05-25 23:01:29,723 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:01:34,387 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:01:34,556 [INFO]  * Restarting with stat
+2024-05-25 23:01:35,726 [WARNING]  * Debugger is active!
+2024-05-25 23:01:35,731 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:01:43,153 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:01:43,313 [INFO]  * Restarting with stat
+2024-05-25 23:01:44,456 [WARNING]  * Debugger is active!
+2024-05-25 23:01:44,462 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:02:01,333 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:02:01,511 [INFO]  * Restarting with stat
+2024-05-25 23:02:02,718 [WARNING]  * Debugger is active!
+2024-05-25 23:02:02,724 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:03:44,735 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:03:44,908 [INFO]  * Restarting with stat
+2024-05-25 23:03:46,013 [WARNING]  * Debugger is active!
+2024-05-25 23:03:46,018 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:05:00,572 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:05:00,743 [INFO]  * Restarting with stat
+2024-05-25 23:05:01,102 [WARNING]  * Debugger is active!
+2024-05-25 23:05:01,107 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:05:15,252 [INFO] 127.0.0.1 - - [25/May/2024 23:05:15] "POST / HTTP/1.1" 200 -
+2024-05-25 23:07:23,030 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:07:23,100 [INFO]  * Restarting with stat
+2024-05-25 23:07:23,439 [WARNING]  * Debugger is active!
+2024-05-25 23:07:23,445 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:07:33,436 [INFO] 127.0.0.1 - - [25/May/2024 23:07:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-25 23:09:25,496 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:09:25,655 [INFO]  * Restarting with stat
+2024-05-25 23:09:25,994 [WARNING]  * Debugger is active!
+2024-05-25 23:09:25,999 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:09:43,722 [INFO] 127.0.0.1 - - [25/May/2024 23:09:43] "POST / HTTP/1.1" 200 -
+2024-05-25 23:10:50,957 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:10:51,006 [INFO]  * Restarting with stat
+2024-05-25 23:10:51,334 [WARNING]  * Debugger is active!
+2024-05-25 23:10:51,342 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:10:56,954 [INFO] 127.0.0.1 - - [25/May/2024 23:10:56] "POST / HTTP/1.1" 200 -
+2024-05-25 23:12:11,518 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:12:11,601 [INFO]  * Restarting with stat
+2024-05-25 23:12:11,922 [WARNING]  * Debugger is active!
+2024-05-25 23:12:11,927 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:12:30,828 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:12:30,897 [INFO]  * Restarting with stat
+2024-05-25 23:12:31,216 [WARNING]  * Debugger is active!
+2024-05-25 23:12:31,221 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:12:49,538 [INFO] 127.0.0.1 - - [25/May/2024 23:12:49] "POST / HTTP/1.1" 200 -
+2024-05-25 23:13:08,888 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:13:08,942 [INFO]  * Restarting with stat
+2024-05-25 23:13:09,272 [WARNING]  * Debugger is active!
+2024-05-25 23:13:09,277 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:13:30,231 [INFO] 127.0.0.1 - - [25/May/2024 23:13:30] "POST / HTTP/1.1" 200 -
+2024-05-25 23:15:46,078 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:15:46,130 [INFO]  * Restarting with stat
+2024-05-25 23:15:46,449 [WARNING]  * Debugger is active!
+2024-05-25 23:15:46,455 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:16:05,436 [INFO] 127.0.0.1 - - [25/May/2024 23:16:05] "POST / HTTP/1.1" 200 -
+2024-05-25 23:49:52,176 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-25 23:49:52,244 [INFO]  * Restarting with stat
+2024-05-25 23:49:52,580 [WARNING]  * Debugger is active!
+2024-05-25 23:49:52,586 [INFO]  * Debugger PIN: 891-626-373
+2024-05-25 23:50:05,914 [INFO] 127.0.0.1 - - [25/May/2024 23:50:05] "POST / HTTP/1.1" 200 -
+2024-05-25 23:50:36,771 [INFO] 127.0.0.1 - - [25/May/2024 23:50:36] "POST / HTTP/1.1" 200 -
+2024-05-26 00:03:07,998 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-26 00:03:08,050 [INFO]  * Restarting with stat
+2024-05-26 00:20:09,280 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 00:20:09,281 [INFO] [33mPress CTRL+C to quit[0m
+2024-05-26 00:20:09,283 [INFO]  * Restarting with stat
+2024-05-26 00:20:10,037 [WARNING]  * Debugger is active!
+2024-05-26 00:20:10,043 [INFO]  * Debugger PIN: 891-626-373
+2024-05-26 00:20:25,428 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': [{'type': 'text', 'text': 'What’s in this image?'}, {'type': 'image_url', 'image_url': {'url': 'https://res.cloudinary.com/dbtzbuew2/image/upload/fl_preserve_transparency/v1716699998/3_tivri9.jpg?_s=public-apps'}}]}], 'model': 'gpt-4o', 'max_tokens': 300}}
+2024-05-26 00:20:25,439 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-05-26 00:20:25,440 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-05-26 00:20:25,496 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F3AB1918D0>
+2024-05-26 00:20:25,497 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000001F3AAC38B40> server_hostname='api.openai.com' timeout=5.0
+2024-05-26 00:20:25,508 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F3AB080640>
+2024-05-26 00:20:25,508 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-05-26 00:20:25,509 [DEBUG] send_request_headers.complete
+2024-05-26 00:20:25,509 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-05-26 00:20:25,510 [DEBUG] send_request_body.complete
+2024-05-26 00:20:25,511 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-05-26 00:20:25,776 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Date', b'Sun, 26 May 2024 05:22:26 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_7da021263e9a9bcad31233dea58292cb'), (b'strict-transport-security', b'max-age=15724800; includeSubDomains'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=J4Zr0KYdBIqMNBCMfBIBJW6sn3dzGO4R9HuK2pJpe1Q-1716700946-1.0.1.1-l3IsRNW3rBYq4hX0.cE6eMVpdC5xxTQo4XET86UVJdLzWW4XDY8kWxCDKFDJHbDuGKdDHQYgllDZGwUMGRI09A; path=/; expires=Sun, 26-May-24 05:52:26 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=YN1VsXK0mae8AJ9N8vXtBdhBCxfZY4nw9AneT9yckkc-1716700946121-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'889b53cf9be84ffb-LIM'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-05-26 00:20:25,778 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-05-26 00:20:25,779 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-05-26 00:20:25,779 [DEBUG] receive_response_body.complete
+2024-05-26 00:20:25,779 [DEBUG] response_closed.started
+2024-05-26 00:20:25,780 [DEBUG] response_closed.complete
+2024-05-26 00:20:25,780 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "404 Not Found" Headers([('date', 'Sun, 26 May 2024 05:22:26 GMT'), ('content-type', 'application/json; charset=utf-8'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_7da021263e9a9bcad31233dea58292cb'), ('strict-transport-security', 'max-age=15724800; includeSubDomains'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=J4Zr0KYdBIqMNBCMfBIBJW6sn3dzGO4R9HuK2pJpe1Q-1716700946-1.0.1.1-l3IsRNW3rBYq4hX0.cE6eMVpdC5xxTQo4XET86UVJdLzWW4XDY8kWxCDKFDJHbDuGKdDHQYgllDZGwUMGRI09A; path=/; expires=Sun, 26-May-24 05:52:26 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=YN1VsXK0mae8AJ9N8vXtBdhBCxfZY4nw9AneT9yckkc-1716700946121-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '889b53cf9be84ffb-LIM'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-05-26 00:20:25,782 [DEBUG] request_id: req_7da021263e9a9bcad31233dea58292cb
+2024-05-26 00:20:25,782 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\_base_client.py", line 999, in _request
+    response.raise_for_status()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\httpx\_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2024-05-26 00:20:25,784 [DEBUG] Not retrying
+2024-05-26 00:20:25,784 [DEBUG] Re-raising status error
+2024-05-26 00:20:25,806 [INFO] 127.0.0.1 - - [26/May/2024 00:20:25] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-26 00:22:51,241 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-26 00:22:51,380 [INFO]  * Restarting with stat
+2024-05-26 00:22:52,297 [WARNING]  * Debugger is active!
+2024-05-26 00:22:52,302 [INFO]  * Debugger PIN: 891-626-373
+2024-05-26 00:23:01,133 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-26 00:23:01,247 [INFO]  * Restarting with stat
+2024-05-26 00:23:02,068 [WARNING]  * Debugger is active!
+2024-05-26 00:23:02,074 [INFO]  * Debugger PIN: 891-626-373
+2024-05-26 00:23:16,246 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-26 00:23:16,354 [INFO]  * Restarting with stat
+2024-05-26 00:23:17,160 [WARNING]  * Debugger is active!
+2024-05-26 00:23:17,165 [INFO]  * Debugger PIN: 891-626-373
+2024-05-26 00:23:33,649 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': [{'type': 'text', 'text': 'What’s in this image?'}, {'type': 'image_url', 'image_url': {'url': 'https://res.cloudinary.com/dbtzbuew2/image/upload/fl_preserve_transparency/v1716699998/3_tivri9.jpg?_s=public-apps'}}]}], 'model': 'gpt-4o', 'max_tokens': 300}}
+2024-05-26 00:23:33,660 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-05-26 00:23:33,660 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-05-26 00:23:33,682 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001E6B20C8610>
+2024-05-26 00:23:33,682 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000001E69F938B40> server_hostname='api.openai.com' timeout=5.0
+2024-05-26 00:23:33,734 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001E6B20C85E0>
+2024-05-26 00:23:33,735 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-05-26 00:23:33,735 [DEBUG] send_request_headers.complete
+2024-05-26 00:23:33,736 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-05-26 00:23:33,736 [DEBUG] send_request_body.complete
+2024-05-26 00:23:33,736 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-05-26 00:23:33,902 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Date', b'Sun, 26 May 2024 05:25:34 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_2729fe39506301e60ddb7d57e2ebc125'), (b'strict-transport-security', b'max-age=15724800; includeSubDomains'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=Q7zHlVqweE_3PiepACx7eFYOJOgLn24Uh1aiU9fUsuk-1716701134-1.0.1.1-ek9H26sJngz7vqgVeyecZWzZwDM5oTpClEerYjgibyZfgZVEVviyQlDEv6ourrYoxOZDpy7MHbkt8FNO6_B54Q; path=/; expires=Sun, 26-May-24 05:55:34 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=pGUdz2l5NY3FijAXa9oMJSTuoKG6xJSDU8psjFpyVN0-1716701134248-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'889b586808e64ffa-LIM'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-05-26 00:23:33,904 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-05-26 00:23:33,904 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-05-26 00:23:33,905 [DEBUG] receive_response_body.complete
+2024-05-26 00:23:33,905 [DEBUG] response_closed.started
+2024-05-26 00:23:33,906 [DEBUG] response_closed.complete
+2024-05-26 00:23:33,906 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "404 Not Found" Headers([('date', 'Sun, 26 May 2024 05:25:34 GMT'), ('content-type', 'application/json; charset=utf-8'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_2729fe39506301e60ddb7d57e2ebc125'), ('strict-transport-security', 'max-age=15724800; includeSubDomains'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=Q7zHlVqweE_3PiepACx7eFYOJOgLn24Uh1aiU9fUsuk-1716701134-1.0.1.1-ek9H26sJngz7vqgVeyecZWzZwDM5oTpClEerYjgibyZfgZVEVviyQlDEv6ourrYoxOZDpy7MHbkt8FNO6_B54Q; path=/; expires=Sun, 26-May-24 05:55:34 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=pGUdz2l5NY3FijAXa9oMJSTuoKG6xJSDU8psjFpyVN0-1716701134248-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '889b586808e64ffa-LIM'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-05-26 00:23:33,907 [DEBUG] request_id: req_2729fe39506301e60ddb7d57e2ebc125
+2024-05-26 00:23:33,908 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\_base_client.py", line 999, in _request
+    response.raise_for_status()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\httpx\_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2024-05-26 00:23:33,910 [DEBUG] Not retrying
+2024-05-26 00:23:33,910 [DEBUG] Re-raising status error
+2024-05-26 00:23:33,941 [INFO] 127.0.0.1 - - [26/May/2024 00:23:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-26 00:34:41,197 [INFO]  * Detected change in 'C:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-05-26 00:34:41,377 [INFO]  * Restarting with stat
+2024-05-26 00:34:42,202 [WARNING]  * Debugger is active!
+2024-05-26 00:34:42,207 [INFO]  * Debugger PIN: 891-626-373
+2024-05-26 00:34:50,145 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': [{'type': 'text', 'text': 'What’s in this image?'}, {'type': 'image_url', 'image_url': {'url': 'https://res.cloudinary.com/dbtzbuew2/image/upload/fl_preserve_transparency/v1716699998/3_tivri9.jpg?_s=public-apps'}}]}], 'model': 'gpt-4', 'max_tokens': 300}}
+2024-05-26 00:34:50,156 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-05-26 00:34:50,156 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-05-26 00:34:50,233 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002073F804A90>
+2024-05-26 00:34:50,233 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000002073F338B40> server_hostname='api.openai.com' timeout=5.0
+2024-05-26 00:34:50,243 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002073F804A60>
+2024-05-26 00:34:50,243 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-05-26 00:34:50,244 [DEBUG] send_request_headers.complete
+2024-05-26 00:34:50,244 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-05-26 00:34:50,245 [DEBUG] send_request_body.complete
+2024-05-26 00:34:50,245 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-05-26 00:34:50,423 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Date', b'Sun, 26 May 2024 05:36:50 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_911f3999a395d3ddebf30d8dfa85aedf'), (b'strict-transport-security', b'max-age=15724800; includeSubDomains'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=lCOKCkSoBBDha4rlBdBFoCexRmvDbTxC71IxVzDxSBU-1716701810-1.0.1.1-tsszdkMVPjcJxaOhNNNqPPLHlYDvTKWLJGBMlgMyVpP1kY2VCyrEcSnMcGS6icpsUWZ44v02h5iGhAzQfmcgIg; path=/; expires=Sun, 26-May-24 06:06:50 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=Css35gmX815.2D5maD4OjiTJ6rK2mbmO4jtgJwQI_Yw-1716701810778-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'889b68ec4e7c4ff5-LIM'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-05-26 00:34:50,425 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-05-26 00:34:50,426 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-05-26 00:34:50,426 [DEBUG] receive_response_body.complete
+2024-05-26 00:34:50,427 [DEBUG] response_closed.started
+2024-05-26 00:34:50,427 [DEBUG] response_closed.complete
+2024-05-26 00:34:50,427 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "404 Not Found" Headers([('date', 'Sun, 26 May 2024 05:36:50 GMT'), ('content-type', 'application/json; charset=utf-8'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_911f3999a395d3ddebf30d8dfa85aedf'), ('strict-transport-security', 'max-age=15724800; includeSubDomains'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=lCOKCkSoBBDha4rlBdBFoCexRmvDbTxC71IxVzDxSBU-1716701810-1.0.1.1-tsszdkMVPjcJxaOhNNNqPPLHlYDvTKWLJGBMlgMyVpP1kY2VCyrEcSnMcGS6icpsUWZ44v02h5iGhAzQfmcgIg; path=/; expires=Sun, 26-May-24 06:06:50 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=Css35gmX815.2D5maD4OjiTJ6rK2mbmO4jtgJwQI_Yw-1716701810778-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '889b68ec4e7c4ff5-LIM'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-05-26 00:34:50,429 [DEBUG] request_id: req_911f3999a395d3ddebf30d8dfa85aedf
+2024-05-26 00:34:50,429 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\_base_client.py", line 999, in _request
+    response.raise_for_status()
+  File "C:\Users\Saul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\httpx\_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2024-05-26 00:34:50,431 [DEBUG] Not retrying
+2024-05-26 00:34:50,431 [DEBUG] Re-raising status error
+2024-05-26 00:34:50,454 [INFO] 127.0.0.1 - - [26/May/2024 00:34:50] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-06-19 17:50:11,278 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-19 17:50:11,279 [INFO] [33mPress CTRL+C to quit[0m
+2024-06-19 17:50:11,282 [INFO]  * Restarting with stat
+2024-06-19 17:50:12,029 [WARNING]  * Debugger is active!
+2024-06-19 17:50:12,034 [INFO]  * Debugger PIN: 891-626-373
+2024-06-19 18:12:55,779 [INFO] 127.0.0.1 - - [19/Jun/2024 18:12:55] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-06-19 18:15:10,636 [INFO] 127.0.0.1 - - [19/Jun/2024 18:15:10] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-07-03 22:08:21,788 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-03 22:08:21,789 [INFO] [33mPress CTRL+C to quit[0m
+2024-07-03 22:08:21,790 [INFO]  * Restarting with stat
+2024-07-03 22:08:22,687 [WARNING]  * Debugger is active!
+2024-07-03 22:08:22,689 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 22:11:57,722 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': [{'type': 'text', 'text': 'What’s in this image?'}, {'type': 'image_url', 'image_url': {'url': 'https://res.cloudinary.com/dbtzbuew2/image/upload/fl_preserve_transparency/v1716699998/3_tivri9.jpg?_s=public-apps'}}]}], 'model': 'gpt-4', 'max_tokens': 300}}
+2024-07-03 22:11:57,766 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-03 22:11:57,767 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-03 22:11:57,816 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022FA78D6B40>
+2024-07-03 22:11:57,816 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000022FA77AD8D0> server_hostname='api.openai.com' timeout=5.0
+2024-07-03 22:11:57,858 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022FA7885CD0>
+2024-07-03 22:11:57,859 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-03 22:11:57,859 [DEBUG] send_request_headers.complete
+2024-07-03 22:11:57,859 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-03 22:11:57,859 [DEBUG] send_request_body.complete
+2024-07-03 22:11:57,859 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-03 22:11:58,159 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Date', b'Thu, 04 Jul 2024 03:14:13 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_4d6d2d2c795cda5de9a7182779c6866d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=iMkglvHghHFz55IY3UwASJUIlSt_DjxqmYyxe_dMQxo-1720062853-1.0.1.1-cDXg2oQEYi5nw1PRhVrn0F1rmu3oXgycVv5TNKyIDcOfqZgdOOqE_dHScUhTq_e.AptLeJN3rIjaxfLA45b.uA; path=/; expires=Thu, 04-Jul-24 03:44:13 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=34Fd_NFepVJMxSu3ZqD0G3wnaHAwaZmmYGRvk6aEkco-1720062853186-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89dbf19ecc60b4ef-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-03 22:11:58,161 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 22:11:58,161 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-03 22:11:58,161 [DEBUG] receive_response_body.complete
+2024-07-03 22:11:58,162 [DEBUG] response_closed.started
+2024-07-03 22:11:58,162 [DEBUG] response_closed.complete
+2024-07-03 22:11:58,162 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "404 Not Found" Headers([('date', 'Thu, 04 Jul 2024 03:14:13 GMT'), ('content-type', 'application/json; charset=utf-8'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_4d6d2d2c795cda5de9a7182779c6866d'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=iMkglvHghHFz55IY3UwASJUIlSt_DjxqmYyxe_dMQxo-1720062853-1.0.1.1-cDXg2oQEYi5nw1PRhVrn0F1rmu3oXgycVv5TNKyIDcOfqZgdOOqE_dHScUhTq_e.AptLeJN3rIjaxfLA45b.uA; path=/; expires=Thu, 04-Jul-24 03:44:13 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=34Fd_NFepVJMxSu3ZqD0G3wnaHAwaZmmYGRvk6aEkco-1720062853186-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89dbf19ecc60b4ef-SCL'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-03 22:11:58,163 [DEBUG] request_id: req_4d6d2d2c795cda5de9a7182779c6866d
+2024-07-03 22:11:58,163 [DEBUG] Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "C:\Users\Saul\AppData\Local\Programs\Python\Python312\Lib\site-packages\openai\_base_client.py", line 1020, in _request
+    response.raise_for_status()
+  File "C:\Users\Saul\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_models.py", line 761, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2024-07-03 22:11:58,165 [DEBUG] Not retrying
+2024-07-03 22:11:58,165 [DEBUG] Re-raising status error
+2024-07-03 22:11:58,173 [INFO] 127.0.0.1 - - [03/Jul/2024 22:11:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-07-03 22:40:35,373 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-03 22:40:35,498 [INFO]  * Restarting with stat
+2024-07-03 22:40:36,423 [WARNING]  * Debugger is active!
+2024-07-03 22:40:36,425 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 22:41:11,535 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-03 22:41:11,633 [INFO]  * Restarting with stat
+2024-07-03 22:41:12,548 [WARNING]  * Debugger is active!
+2024-07-03 22:41:12,550 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 22:41:17,515 [INFO] 127.0.0.1 - - [03/Jul/2024 22:41:17] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-07-03 22:42:20,781 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-03 22:42:20,904 [INFO]  * Restarting with stat
+2024-07-03 22:42:21,199 [WARNING]  * Debugger is active!
+2024-07-03 22:42:21,203 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 22:42:28,037 [INFO] 127.0.0.1 - - [03/Jul/2024 22:42:28] "POST / HTTP/1.1" 200 -
+2024-07-03 22:44:17,589 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-03 22:44:17,644 [INFO]  * Restarting with stat
+2024-07-03 22:44:17,948 [WARNING]  * Debugger is active!
+2024-07-03 22:44:17,953 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 22:44:23,692 [INFO] 127.0.0.1 - - [03/Jul/2024 22:44:23] "POST / HTTP/1.1" 200 -
+2024-07-03 22:45:14,795 [INFO] 127.0.0.1 - - [03/Jul/2024 22:45:14] "POST / HTTP/1.1" 200 -
+2024-07-03 22:45:27,396 [INFO] 127.0.0.1 - - [03/Jul/2024 22:45:27] "POST / HTTP/1.1" 200 -
+2024-07-03 22:53:27,122 [INFO] 127.0.0.1 - - [03/Jul/2024 22:53:27] "POST / HTTP/1.1" 200 -
+2024-07-03 23:02:17,884 [INFO] 127.0.0.1 - - [03/Jul/2024 23:02:17] "POST / HTTP/1.1" 200 -
+2024-07-03 23:02:34,793 [INFO] 127.0.0.1 - - [03/Jul/2024 23:02:34] "POST / HTTP/1.1" 200 -
+2024-07-03 23:03:57,547 [INFO] 127.0.0.1 - - [03/Jul/2024 23:03:57] "POST / HTTP/1.1" 200 -
+2024-07-03 23:04:32,428 [INFO] 127.0.0.1 - - [03/Jul/2024 23:04:32] "POST / HTTP/1.1" 200 -
+2024-07-03 23:05:38,526 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-03 23:05:38,590 [INFO]  * Restarting with stat
+2024-07-03 23:05:38,874 [WARNING]  * Debugger is active!
+2024-07-03 23:05:38,879 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 23:05:51,044 [INFO] 127.0.0.1 - - [03/Jul/2024 23:05:51] "POST / HTTP/1.1" 200 -
+2024-07-03 23:13:43,360 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-03 23:13:43,427 [INFO]  * Restarting with stat
+2024-07-03 23:13:43,713 [WARNING]  * Debugger is active!
+2024-07-03 23:13:43,717 [INFO]  * Debugger PIN: 119-649-405
+2024-07-03 23:13:49,781 [INFO] 127.0.0.1 - - [03/Jul/2024 23:13:49] "POST / HTTP/1.1" 200 -
+2024-07-04 11:59:50,360 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-04 11:59:50,361 [INFO] [33mPress CTRL+C to quit[0m
+2024-07-04 11:59:50,366 [INFO]  * Restarting with stat
+2024-07-04 11:59:50,630 [WARNING]  * Debugger is active!
+2024-07-04 11:59:50,636 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 12:03:08,715 [INFO] 127.0.0.1 - - [04/Jul/2024 12:03:08] "POST / HTTP/1.1" 200 -
+2024-07-04 12:47:21,537 [INFO] 127.0.0.1 - - [04/Jul/2024 12:47:21] "POST / HTTP/1.1" 200 -
+2024-07-04 12:48:22,554 [INFO] 127.0.0.1 - - [04/Jul/2024 12:48:22] "POST / HTTP/1.1" 200 -
+2024-07-04 12:48:42,734 [INFO] 127.0.0.1 - - [04/Jul/2024 12:48:42] "POST / HTTP/1.1" 200 -
+2024-07-04 14:34:43,369 [INFO] 127.0.0.1 - - [04/Jul/2024 14:34:43] "POST / HTTP/1.1" 200 -
+2024-07-04 14:45:34,504 [INFO] 127.0.0.1 - - [04/Jul/2024 14:45:34] "POST / HTTP/1.1" 200 -
+2024-07-04 14:53:12,411 [INFO] 127.0.0.1 - - [04/Jul/2024 14:53:12] "POST / HTTP/1.1" 200 -
+2024-07-04 14:57:13,730 [INFO] 127.0.0.1 - - [04/Jul/2024 14:57:13] "POST / HTTP/1.1" 200 -
+2024-07-04 14:58:30,237 [INFO] 127.0.0.1 - - [04/Jul/2024 14:58:30] "POST / HTTP/1.1" 200 -
+2024-07-04 15:35:59,314 [INFO] 127.0.0.1 - - [04/Jul/2024 15:35:59] "POST / HTTP/1.1" 200 -
+2024-07-04 15:43:25,950 [INFO] 127.0.0.1 - - [04/Jul/2024 15:43:25] "POST / HTTP/1.1" 200 -
+2024-07-04 15:57:37,595 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 15:57:37,728 [INFO]  * Restarting with stat
+2024-07-04 15:57:39,360 [WARNING]  * Debugger is active!
+2024-07-04 15:57:39,362 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 15:58:21,453 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 15:58:21,576 [INFO]  * Restarting with stat
+2024-07-04 15:58:22,499 [WARNING]  * Debugger is active!
+2024-07-04 15:58:22,501 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 16:02:24,151 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 16:02:24,293 [INFO]  * Restarting with stat
+2024-07-04 16:02:25,235 [WARNING]  * Debugger is active!
+2024-07-04 16:02:25,238 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 16:02:34,899 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'eres un gato'}, {'role': 'user', 'content': 'en simples palabas, cuanto es 2+2?'}], 'model': 'gpt-4o'}}
+2024-07-04 16:02:34,947 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-04 16:02:34,948 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-04 16:02:35,012 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002127FF16030>
+2024-07-04 16:02:35,012 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000002127FE82750> server_hostname='api.openai.com' timeout=5.0
+2024-07-04 16:02:35,055 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002127FCC52B0>
+2024-07-04 16:02:35,056 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-04 16:02:35,056 [DEBUG] send_request_headers.complete
+2024-07-04 16:02:35,057 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-04 16:02:35,057 [DEBUG] send_request_body.complete
+2024-07-04 16:02:35,057 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-04 16:02:35,976 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 04 Jul 2024 21:02:36 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'444'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'29970'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'60ms'), (b'x-request-id', b'req_c3a56f0f080e766d23c5573b0d411ff9'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=gNATwIuCphhlrzfF7M4H9H2TVcdF1J14QdnsaxrgLvg-1720126956-1.0.1.1-OIN5.94ZI4ZL3V9n3UJiyKANZEzcgzW0V5jPDQ.mKpBYlowSkYljZqctD.glLjGkWWFpmix38BwccqVsMXhFUw; path=/; expires=Thu, 04-Jul-24 21:32:36 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=yovx3s83tfFt9Qzk4SxW8yn_m_N4cVBIc6G.m3eClGE-1720126956110-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89e20e9e283cb528-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-04 16:02:35,980 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 16:02:35,980 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-04 16:02:35,981 [DEBUG] receive_response_body.complete
+2024-07-04 16:02:35,981 [DEBUG] response_closed.started
+2024-07-04 16:02:35,981 [DEBUG] response_closed.complete
+2024-07-04 16:02:35,982 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 04 Jul 2024 21:02:36 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-ccdmtufxccgjsij4ywnpkeci'), ('openai-processing-ms', '444'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '29970'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '60ms'), ('x-request-id', 'req_c3a56f0f080e766d23c5573b0d411ff9'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=gNATwIuCphhlrzfF7M4H9H2TVcdF1J14QdnsaxrgLvg-1720126956-1.0.1.1-OIN5.94ZI4ZL3V9n3UJiyKANZEzcgzW0V5jPDQ.mKpBYlowSkYljZqctD.glLjGkWWFpmix38BwccqVsMXhFUw; path=/; expires=Thu, 04-Jul-24 21:32:36 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=yovx3s83tfFt9Qzk4SxW8yn_m_N4cVBIc6G.m3eClGE-1720126956110-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89e20e9e283cb528-SCL'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-04 16:02:35,983 [DEBUG] request_id: req_c3a56f0f080e766d23c5573b0d411ff9
+2024-07-04 16:02:36,006 [INFO] 127.0.0.1 - - [04/Jul/2024 16:02:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-07-04 16:03:10,382 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 16:03:10,493 [INFO]  * Restarting with stat
+2024-07-04 16:03:11,455 [WARNING]  * Debugger is active!
+2024-07-04 16:03:11,457 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 16:03:19,303 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'eres un gato'}, {'role': 'user', 'content': 'en simples palabas, cuanto es 2+2?'}], 'model': 'gpt-4o'}}
+2024-07-04 16:03:19,348 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-04 16:03:19,348 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-04 16:03:19,396 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000020E22815C70>
+2024-07-04 16:03:19,397 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020E22782750> server_hostname='api.openai.com' timeout=5.0
+2024-07-04 16:03:19,436 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000020E228159A0>
+2024-07-04 16:03:19,437 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-04 16:03:19,438 [DEBUG] send_request_headers.complete
+2024-07-04 16:03:19,438 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-04 16:03:19,439 [DEBUG] send_request_body.complete
+2024-07-04 16:03:19,439 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-04 16:03:20,226 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 04 Jul 2024 21:03:20 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'400'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'29970'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'60ms'), (b'x-request-id', b'req_bc35f9e06a2eac55e71b0ed935b860fe'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=oV6QLyahzO_I2fD5xsDDpbnmOMqYX2I_EBvN7ZZUnyA-1720127000-1.0.1.1-HYLuggQJHWKUNHIOpzpn7uDJFLcTTezYQFvaxNn.onrBceIXmFTY3LkX84WCg..kHkwLNnt7lE3Ynvwd0VA8Lg; path=/; expires=Thu, 04-Jul-24 21:33:20 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=zlpaCHDnz1BSN6Tyi5AslkBivbalpAxcZ2m4yrch5nw-1720127000361-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89e20fb38850b4dd-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-04 16:03:20,228 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 16:03:20,228 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-04 16:03:20,229 [DEBUG] receive_response_body.complete
+2024-07-04 16:03:20,229 [DEBUG] response_closed.started
+2024-07-04 16:03:20,229 [DEBUG] response_closed.complete
+2024-07-04 16:03:20,229 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 04 Jul 2024 21:03:20 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-ccdmtufxccgjsij4ywnpkeci'), ('openai-processing-ms', '400'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '29970'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '60ms'), ('x-request-id', 'req_bc35f9e06a2eac55e71b0ed935b860fe'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=oV6QLyahzO_I2fD5xsDDpbnmOMqYX2I_EBvN7ZZUnyA-1720127000-1.0.1.1-HYLuggQJHWKUNHIOpzpn7uDJFLcTTezYQFvaxNn.onrBceIXmFTY3LkX84WCg..kHkwLNnt7lE3Ynvwd0VA8Lg; path=/; expires=Thu, 04-Jul-24 21:33:20 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=zlpaCHDnz1BSN6Tyi5AslkBivbalpAxcZ2m4yrch5nw-1720127000361-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89e20fb38850b4dd-SCL'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-04 16:03:20,230 [DEBUG] request_id: req_bc35f9e06a2eac55e71b0ed935b860fe
+2024-07-04 16:03:20,233 [INFO] 127.0.0.1 - - [04/Jul/2024 16:03:20] "POST / HTTP/1.1" 200 -
+2024-07-04 16:05:49,941 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 16:05:50,041 [INFO]  * Restarting with stat
+2024-07-04 16:05:50,992 [WARNING]  * Debugger is active!
+2024-07-04 16:05:50,994 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 16:15:56,474 [DEBUG] Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'eres un gato'}, {'role': 'user', 'content': 'en simples palabas, cuanto es 2+2?'}], 'model': 'gpt-4o'}}
+2024-07-04 16:15:56,522 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-04 16:15:56,523 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-04 16:15:56,581 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001FC97582A20>
+2024-07-04 16:15:56,581 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000001FC98C62750> server_hostname='api.openai.com' timeout=5.0
+2024-07-04 16:15:56,623 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001FC98CF5E50>
+2024-07-04 16:15:56,624 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-04 16:15:56,624 [DEBUG] send_request_headers.complete
+2024-07-04 16:15:56,625 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-04 16:15:56,625 [DEBUG] send_request_body.complete
+2024-07-04 16:15:56,625 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-04 16:15:57,389 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 04 Jul 2024 21:15:57 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'436'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'29970'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'60ms'), (b'x-request-id', b'req_201963c47eb1c419c29b915cff69fde9'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=xF1b1zK7ZUlbtuYSRlQXC.MI5dj1wHKccrXZsa.NEuA-1720127757-1.0.1.1-6xD741NOoidcH9PlrmbAUIpBbQKqpk9gh3tjloR2eUmhJsX2G8Fm3WqZivoMduxDRHLac3u5DcHPpssjZx5Xsg; path=/; expires=Thu, 04-Jul-24 21:45:57 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=Te2zqGhTj8TVxLB9T4YXmvFbJCTSxusiCTUubN.DRaA-1720127757528-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89e222300cbc0dd4-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-04 16:15:57,393 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 16:15:57,394 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-04 16:15:57,394 [DEBUG] receive_response_body.complete
+2024-07-04 16:15:57,394 [DEBUG] response_closed.started
+2024-07-04 16:15:57,395 [DEBUG] response_closed.complete
+2024-07-04 16:15:57,395 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 04 Jul 2024 21:15:57 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-ccdmtufxccgjsij4ywnpkeci'), ('openai-processing-ms', '436'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '29970'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '60ms'), ('x-request-id', 'req_201963c47eb1c419c29b915cff69fde9'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=xF1b1zK7ZUlbtuYSRlQXC.MI5dj1wHKccrXZsa.NEuA-1720127757-1.0.1.1-6xD741NOoidcH9PlrmbAUIpBbQKqpk9gh3tjloR2eUmhJsX2G8Fm3WqZivoMduxDRHLac3u5DcHPpssjZx5Xsg; path=/; expires=Thu, 04-Jul-24 21:45:57 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=Te2zqGhTj8TVxLB9T4YXmvFbJCTSxusiCTUubN.DRaA-1720127757528-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89e222300cbc0dd4-SCL'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-04 16:15:57,396 [DEBUG] request_id: req_201963c47eb1c419c29b915cff69fde9
+2024-07-04 16:15:57,398 [INFO] 2+2 es 4.
+2024-07-04 16:15:57,400 [INFO] 127.0.0.1 - - [04/Jul/2024 16:15:57] "POST / HTTP/1.1" 200 -
+2024-07-04 16:34:02,506 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 16:34:02,623 [INFO]  * Restarting with stat
+2024-07-04 16:34:03,593 [WARNING]  * Debugger is active!
+2024-07-04 16:34:03,595 [INFO]  * Debugger PIN: 119-649-405
+2024-07-04 16:35:50,686 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-04 16:35:50,687 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-04 16:35:50,744 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000292B47075F0>
+2024-07-04 16:35:50,744 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x00000292B4672750> server_hostname='api.openai.com' timeout=5.0
+2024-07-04 16:35:50,785 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000292B32B2600>
+2024-07-04 16:35:50,786 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-04 16:35:50,786 [DEBUG] send_request_headers.complete
+2024-07-04 16:35:50,786 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-04 16:35:50,787 [DEBUG] send_request_body.complete
+2024-07-04 16:35:50,787 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-04 16:35:55,450 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 04 Jul 2024 21:35:55 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'4258'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'15497'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'29.006s'), (b'x-request-id', b'req_06765ed08436a2254e88193ffb1e8691'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=dcW58JKZ41XRxu0tdNcItp4DFFUjHjHH.sj4j4ad5Pk-1720128955-1.0.1.1-KgCb1YE5TNQ1njwhq7CsA.A97i7hM55gG1GWIKos4Mm0JY5YKdJaFIToUFMm7J3oU.MWYZZwZuv20F79X1GHtA; path=/; expires=Thu, 04-Jul-24 22:05:55 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=Lkzy_VvoNUViE.eLFlCZLzwwoTmO.K.V_OqFfXtLx14-1720128955609-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89e23f57a91e0ddf-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-04 16:35:55,452 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 16:35:55,452 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-04 16:35:55,452 [DEBUG] receive_response_body.complete
+2024-07-04 16:35:55,452 [DEBUG] response_closed.started
+2024-07-04 16:35:55,453 [DEBUG] response_closed.complete
+2024-07-04 16:35:55,453 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 04 Jul 2024 21:35:55 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-ccdmtufxccgjsij4ywnpkeci'), ('openai-processing-ms', '4258'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '15497'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '29.006s'), ('x-request-id', 'req_06765ed08436a2254e88193ffb1e8691'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=dcW58JKZ41XRxu0tdNcItp4DFFUjHjHH.sj4j4ad5Pk-1720128955-1.0.1.1-KgCb1YE5TNQ1njwhq7CsA.A97i7hM55gG1GWIKos4Mm0JY5YKdJaFIToUFMm7J3oU.MWYZZwZuv20F79X1GHtA; path=/; expires=Thu, 04-Jul-24 22:05:55 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=Lkzy_VvoNUViE.eLFlCZLzwwoTmO.K.V_OqFfXtLx14-1720128955609-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89e23f57a91e0ddf-SCL'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-04 16:35:55,453 [DEBUG] request_id: req_06765ed08436a2254e88193ffb1e8691
+2024-07-04 16:35:55,456 [INFO] El reciente estudio titulado "Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering" publicado en Scientific Reports, presenta una evaluación sistemática del desempeño de ChatGPT en responder preguntas específicas de ciencias naturales e ingeniería, recopiladas de 198 miembros de la facultad del Delft University of Technology. A lo largo del estudio se recolectaron 594 preguntas de diferentes niveles educativos (Bachelor, Master y Ph.D.) y se evaluaron las respuestas generadas por ChatGPT. Los resultados revelan que, en general, las respuestas fueron percibidas como "principalmente correctas" pero con una notoria disminución en su valoración a medida que aumentaba el nivel de la pregunta y se requerían habilidades más allá del conocimiento científico, como la actitud crítica. Aunque ChatGPT muestra un uso avanzado de lenguaje académico, sus respuestas se critican por ser genéricas y carecer de detalles específicos. En cuestiones complejas, su desempeño se sitúa entre "parcialmente correcto" y "mayoritariamente correcto". Además, se observó una preocupante falta de reflexión crítica y el potencial impacto negativo en aplicaciones reales si se confía ciegamente en sus respuestas. La investigación subraya la necesidad de desarrollar métodos que mitiguen estos riesgos y promuevan un uso responsable, especialmente en contextos educativos y prácticos. Los desafíos pendientes incluyen mejorar la capacidad de ChatGPT para manejar preguntas especializadas y fomentar una mayor conciencia crítica en sus respuestas, temas que son cruciales para maximizar los beneficios y minimizar los riesgos potenciales en las ciencias naturales y la ingeniería.
+2024-07-04 16:35:55,458 [INFO] 127.0.0.1 - - [04/Jul/2024 16:35:55] "POST / HTTP/1.1" 200 -
+2024-07-04 17:03:16,033 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\main.py', reloading
+2024-07-04 17:03:16,145 [INFO]  * Restarting with stat
+2024-07-04 17:03:17,081 [WARNING]  * Debugger is active!
+2024-07-04 17:03:17,083 [INFO]  * Debugger PIN: 119-649-405
+2024-07-05 13:55:44,365 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-05 13:55:44,365 [INFO] [33mPress CTRL+C to quit[0m
+2024-07-05 13:55:44,367 [INFO]  * Restarting with stat
+2024-07-05 13:55:45,286 [WARNING]  * Debugger is active!
+2024-07-05 13:55:45,289 [INFO]  * Debugger PIN: 119-649-405
+2024-07-05 14:00:25,177 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-05 14:00:25,178 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-05 14:00:25,237 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000231028574D0>
+2024-07-05 14:00:25,238 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x00000231027C2750> server_hostname='api.openai.com' timeout=5.0
+2024-07-05 14:00:25,288 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000023102776BA0>
+2024-07-05 14:00:25,289 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-05 14:00:25,290 [DEBUG] send_request_headers.complete
+2024-07-05 14:00:25,290 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-05 14:00:25,291 [DEBUG] send_request_body.complete
+2024-07-05 14:00:25,291 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-05 14:00:39,117 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Fri, 05 Jul 2024 19:00:39 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'13290'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'20619'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'18.762s'), (b'x-request-id', b'req_24b8f597ee7fa48e0062e0476eae662f'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=R6xqOd6JrHSylBHhzuQXY7Z5fAT6RDUH47NU.N8gsH4-1720206039-1.0.1.1-TVV23mx8_ssa67ZeIt7FdGRYN8RirMJl7yvbDboUFeCOoE_qbKCjFDPwq2_jJGnkAjFIg_23OA4GPlDZSXHMqg; path=/; expires=Fri, 05-Jul-24 19:30:39 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=fzMfCsnKQDDmiMDwxHaTeq8i3fdKDAtQUBDFM49Lyco-1720206039130-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89e9990a58f9b536-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-05 14:00:39,119 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 14:00:39,119 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-05 14:00:39,120 [DEBUG] receive_response_body.complete
+2024-07-05 14:00:39,120 [DEBUG] response_closed.started
+2024-07-05 14:00:39,121 [DEBUG] response_closed.complete
+2024-07-05 14:00:39,121 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Fri, 05 Jul 2024 19:00:39 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-ccdmtufxccgjsij4ywnpkeci'), ('openai-processing-ms', '13290'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '20619'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '18.762s'), ('x-request-id', 'req_24b8f597ee7fa48e0062e0476eae662f'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=R6xqOd6JrHSylBHhzuQXY7Z5fAT6RDUH47NU.N8gsH4-1720206039-1.0.1.1-TVV23mx8_ssa67ZeIt7FdGRYN8RirMJl7yvbDboUFeCOoE_qbKCjFDPwq2_jJGnkAjFIg_23OA4GPlDZSXHMqg; path=/; expires=Fri, 05-Jul-24 19:30:39 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=fzMfCsnKQDDmiMDwxHaTeq8i3fdKDAtQUBDFM49Lyco-1720206039130-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89e9990a58f9b536-SCL'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-05 14:00:39,122 [DEBUG] request_id: req_24b8f597ee7fa48e0062e0476eae662f
+2024-07-05 14:00:39,136 [INFO] 127.0.0.1 - - [05/Jul/2024 14:00:39] "POST / HTTP/1.1" 200 -
+2024-07-05 14:01:15,042 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-05 14:01:15,042 [DEBUG] close.started
+2024-07-05 14:01:15,043 [DEBUG] close.complete
+2024-07-05 14:01:15,043 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-05 14:01:15,143 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002310296AAE0>
+2024-07-05 14:01:15,145 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x00000231027C2750> server_hostname='api.openai.com' timeout=5.0
+2024-07-05 14:01:15,185 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000023102486660>
+2024-07-05 14:01:15,186 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-05 14:01:15,187 [DEBUG] send_request_headers.complete
+2024-07-05 14:01:15,187 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-05 14:01:15,188 [DEBUG] send_request_body.complete
+2024-07-05 14:01:15,188 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-05 14:01:22,360 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Fri, 05 Jul 2024 19:01:22 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'6852'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'20619'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'18.762s'), (b'x-request-id', b'req_af02388d6576fa7eb50902aaffe1551e'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89e99a423ccca58e-SCL'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-05 14:01:22,360 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 14:01:22,361 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-05 14:01:22,361 [DEBUG] receive_response_body.complete
+2024-07-05 14:01:22,361 [DEBUG] response_closed.started
+2024-07-05 14:01:22,361 [DEBUG] response_closed.complete
+2024-07-05 14:01:22,362 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Fri, 05 Jul 2024 19:01:22 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'openai-organization': 'user-ccdmtufxccgjsij4ywnpkeci', 'openai-processing-ms': '6852', 'openai-version': '2020-10-01', 'strict-transport-security': 'max-age=31536000; includeSubDomains', 'x-ratelimit-limit-requests': '500', 'x-ratelimit-limit-tokens': '30000', 'x-ratelimit-remaining-requests': '499', 'x-ratelimit-remaining-tokens': '20619', 'x-ratelimit-reset-requests': '120ms', 'x-ratelimit-reset-tokens': '18.762s', 'x-request-id': 'req_af02388d6576fa7eb50902aaffe1551e', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '89e99a423ccca58e-SCL', 'content-encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'})
+2024-07-05 14:01:22,363 [DEBUG] request_id: req_af02388d6576fa7eb50902aaffe1551e
+2024-07-05 14:01:22,363 [INFO] El estado del arte sobre el uso de Inteligencia Artificial Generativa (GAI) para la priorización de candidatos a la reutilización de medicamentos para la enfermedad de Alzheimer (AD) está marcado por avances recientes que resaltan la utilidad de tecnologías como ChatGPT en la investigación biomédica. Publicado en "npj Digital Medicine", este enfoque innovador busca enfrentar los desafíos intrínsecos a la investigación de AD, una condición neurodegenerativa irreversible y prevalente en adultos mayores. El desarrollo de nuevos medicamentos es costoso y lleva mucho tiempo, lo que hace que la reutilización de medicamentos, con perfiles de seguridad ya establecidos, sea una alternativa atractiva. Este estudio demuestra que ChatGPT puede sintetizar y filtrar rápidamente grandes volúmenes de literatura científica, identificando medicamentos prometedores que podrían ser reutilizados para tratar AD. A través de la iteración de consultas a ChatGPT, se generaron 59 candidatos únicos, de los cuales se priorizaron diez para validación clínica en dos grandes conjuntos de datos: el Vanderbilt University Medical Center (VUMC) y el All of Us Research Program de los NIH. Las pruebas realizadas mediante análisis de los registros médicos electrónicos (EHRs) revelaron que los medicamentos metformina, simvastatina y losartán se asociaron con una reducción significativa en el riesgo de AD, presentando un Hazard Ratio (HR) de 0.67, 0.84 y 0.76 respectivamente en el análisis de metaanálisis. Sin embargo, a pesar de estos hallazgos, existen problemas abiertos que requieren atención, como la necesidad de mecanismos de validación exhaustivos para evitar los sesgos inherentes a las recomendaciones basadas en la literatura existente y la posible exclusión de candidatos prometedores debido a su baja frecuencia en las publicaciones científicas. El uso de EHRs, aunque crucial, también enfrenta desafíos relacionados con la incompletitud de datos y la adherencia inconsistente a la medicación reportada. No obstante, esta investigación presenta una ruta prometedora para la aceleración del proceso de revisión literaria y de pruebas preliminares de hipótesis, sugiriendo que la combinación de hipótesis generadas por ChatGPT con datos clínicos del mundo real puede proporcionar un marco rentable y escalable para la investigación de la reutilización de medicamentos, mientras se anticipan actualizaciones regulares de la tecnología de ChatGPT para mantener la investigación actualizada. Esta capacidad de generación rápida y priorización efectiva podría revolucionar no solo la lucha contra AD, sino también la investigación farmacológica en general.
+2024-07-05 14:01:22,366 [INFO] 127.0.0.1 - - [05/Jul/2024 14:01:22] "POST / HTTP/1.1" 200 -
+2024-07-06 11:34:18,016 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-06 11:34:18,017 [INFO] [33mPress CTRL+C to quit[0m
+2024-07-06 11:34:18,018 [INFO]  * Restarting with stat
+2024-07-06 11:34:18,940 [WARNING]  * Debugger is active!
+2024-07-06 11:34:18,943 [INFO]  * Debugger PIN: 119-649-405
+2024-07-06 11:35:08,709 [DEBUG] Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2024-07-06 11:35:08,709 [DEBUG] connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-07-06 11:35:08,836 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001ABDA0B7950>
+2024-07-06 11:35:08,837 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000001ABDA022750> server_hostname='api.openai.com' timeout=5.0
+2024-07-06 11:35:08,862 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001ABD9FF40B0>
+2024-07-06 11:35:08,863 [DEBUG] send_request_headers.started request=<Request [b'POST']>
+2024-07-06 11:35:08,864 [DEBUG] send_request_headers.complete
+2024-07-06 11:35:08,864 [DEBUG] send_request_body.started request=<Request [b'POST']>
+2024-07-06 11:35:08,865 [DEBUG] send_request_body.complete
+2024-07-06 11:35:08,865 [DEBUG] receive_response_headers.started request=<Request [b'POST']>
+2024-07-06 11:35:16,910 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 06 Jul 2024 16:35:16 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-ccdmtufxccgjsij4ywnpkeci'), (b'openai-processing-ms', b'7166'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'20619'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'18.762s'), (b'x-request-id', b'req_fa4fc0962fb529eb7c945accf34829e6'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=jqF62p3cZOccPkcswHjzWDoZ8mruWK0UBap6p89NeVs-1720283716-1.0.1.1-zJUqOQ0RDDXEh1AODOW9XSbLLmajs2N4BXI8.QcXpKvaRZeFkMh1hN3.zoYvnyrafb0HAt2cczLa.MVRvzUFvg; path=/; expires=Sat, 06-Jul-24 17:05:16 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=bvjG9YJcgoUAFyKfuBLrNZQKvHcw8hx2C0V2InaU2tk-1720283716908-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'89f1019c689cb53c-LIM'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-07-06 11:35:16,915 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-06 11:35:16,916 [DEBUG] receive_response_body.started request=<Request [b'POST']>
+2024-07-06 11:35:16,918 [DEBUG] receive_response_body.complete
+2024-07-06 11:35:16,918 [DEBUG] response_closed.started
+2024-07-06 11:35:16,919 [DEBUG] response_closed.complete
+2024-07-06 11:35:16,919 [DEBUG] HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Sat, 06 Jul 2024 16:35:16 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-ccdmtufxccgjsij4ywnpkeci'), ('openai-processing-ms', '7166'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '20619'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '18.762s'), ('x-request-id', 'req_fa4fc0962fb529eb7c945accf34829e6'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=jqF62p3cZOccPkcswHjzWDoZ8mruWK0UBap6p89NeVs-1720283716-1.0.1.1-zJUqOQ0RDDXEh1AODOW9XSbLLmajs2N4BXI8.QcXpKvaRZeFkMh1hN3.zoYvnyrafb0HAt2cczLa.MVRvzUFvg; path=/; expires=Sat, 06-Jul-24 17:05:16 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('set-cookie', '_cfuvid=bvjG9YJcgoUAFyKfuBLrNZQKvHcw8hx2C0V2InaU2tk-1720283716908-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '89f1019c689cb53c-LIM'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2024-07-06 11:35:16,921 [DEBUG] request_id: req_fa4fc0962fb529eb7c945accf34829e6
+2024-07-06 11:35:16,923 [INFO] El estado del arte relacionado con el uso de la inteligencia artificial generativa (GAI) para priorizar la reutilización de medicamentos en el tratamiento de la enfermedad de Alzheimer (AD) destaca avances significativos y presenta diversos desafíos abiertos en la investigación. La enfermedad de Alzheimer es una afección neurodegenerativa progresiva con una prevalencia alta entre adultos mayores, que carece de tratamientos efectivos a pesar de décadas de investigaciones. La reutilización de medicamentos surge como una alternativa atractiva al costoso y prolongado proceso de desarrollo de nuevos fármacos. Este enfoque no solo acelera los tiempos de descubrimiento y reducción de costos, sino que también ofrece perfiles de seguridad establecidos y facilita la traducción clínica. Sin embargo, el éxito de la reutilización de medicamentos depende de la rápida y precisa identificación de candidatos prometedores. Tradicionalmente, la búsqueda de estos candidatos ha requerido una revisión exhaustiva de la literatura científica, una tarea intensiva en tiempo y recursos. En este contexto, las tecnologías emergentes de GAI, como ChatGPT de OpenAI, muestran un potencial significativo para mejorar la eficiencia de la revisión de conocimientos científicos. En un estudio reciente, ChatGPT fue iterativamente encargado de sugerir los 20 medicamentos más prometedores para la reutilización en AD y se probaron los 10 principales en dos grandes cohortes clínicas de datos del Vanderbilt University Medical Center y el All of Us Research Program. De los candidatos recomendados por ChatGPT, metformina, simvastatina y losartán se asociaron con una reducción en el riesgo de AD en análisis de metaanálisis. Los resultados sugieren que las tecnologías GAI pueden asimilar eficazmente conocimientos científicos desde una amplia búsqueda internet basada y ayudar a priorizar candidatos para la reutilización de fármacos. Sin embargo, el uso responsable de GAI en el entorno médico requiere una verificación completa de su utilidad y fiabilidad con datos clínicos del mundo real. Entre los desafíos abiertos, destacan la verificación exhaustiva de las hipótesis generadas por GAI, las limitaciones de los registros médicos electrónicos (EHR) que pueden contener datos incompletos o faltantes, y la necesidad de controlar el confounding por indicación en los estudios observacionales. Además, aunque ChatGPT puede generar hipótesis de calidad para la reutilización de medicamentos, su capacidad para descubrir candidatos novedosos sigue dependiendo de la prevalencia en la literatura existente. Otro desafío es la variabilidad en la calidad de las respuestas generadas por los modelos de lenguaje grande a lo largo del tiempo. Futuros estudios deben enfocarse en cómo aprovechar mejor los LLMs y tecnologías de representación explícita del conocimiento, como los gráficos de conocimiento, para descubrir nuevas ideas en la investigación biomédica, y en la evaluación continua de su rendimiento a través de conjuntos de datos a gran escala.
+2024-07-06 11:35:16,926 [INFO] 127.0.0.1 - - [06/Jul/2024 11:35:16] "POST / HTTP/1.1" 200 -
+2024-07-06 11:35:54,261 [INFO]  * Detected change in 'c:\\Users\\Saul\\Desktop\\UPN ING SIS\\2024-1\\capstone project\\proyecto\\capstone_backend\\test.py', reloading
+2024-07-06 11:35:54,379 [INFO]  * Restarting with stat
+2024-07-06 11:35:55,302 [WARNING]  * Debugger is active!
+2024-07-06 11:35:55,304 [INFO]  * Debugger PIN: 119-649-405
